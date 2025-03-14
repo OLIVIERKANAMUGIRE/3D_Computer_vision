@@ -1,0 +1,267 @@
+{
+    "info": {
+        "year": "2021",
+        "version": "1",
+        "description": "Exported from roboflow.ai",
+        "contributor": "Samrat Sahoo",
+        "url": "https://public.roboflow.ai/object-detection/cottontail-rabbits-video-dataset",
+        "date_created": "2021-07-24T05:27:20+00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "name": "Public Domain"
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "Cottontail-Rabbit",
+            "supercategory": "none"
+        },
+        {
+            "id": 1,
+            "name": "Cottontail-Rabbit",
+            "supercategory": "Cottontail-Rabbit"
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "license": 1,
+            "file_name": "animals-rabbits_OGSPXCGUXJ_jpg.rf.12057f59aeb96269d0c271cf997fe5a5.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2021-07-24T05:27:20+00:00"
+        },
+        {
+            "id": 1,
+            "license": 1,
+            "file_name": "rabbit-5652587_1280_jpg.rf.4b2dffa286adb6d258031a4fa3e08f78.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2021-07-24T05:27:20+00:00"
+        },
+        {
+            "id": 2,
+            "license": 1,
+            "file_name": "images4_jpg.rf.84b1ef750fbb5dca4c0c0929d1ce3b62.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2021-07-24T05:27:20+00:00"
+        },
+        {
+            "id": 3,
+            "license": 1,
+            "file_name": "animal-gray-rabbit-bunny-bunny-image_jpg.rf.f73435329b26b86f68c273a42f45813d.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2021-07-24T05:27:20+00:00"
+        },
+        {
+            "id": 4,
+            "license": 1,
+            "file_name": "index2_jpg.rf.afd7919604bbb99773dfd0cf51f81363.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2021-07-24T05:27:20+00:00"
+        },
+        {
+            "id": 5,
+            "license": 1,
+            "file_name": "673970128_db921a31e1_b_jpg.rf.7222960a5bcf15a22983b8f59f8e66f9.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2021-07-24T05:27:20+00:00"
+        },
+        {
+            "id": 6,
+            "license": 1,
+            "file_name": "rabbit-3642871_1280_jpg.rf.b2c2b67a8063924510b2047d9a36c923.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2021-07-24T05:27:20+00:00"
+        },
+        {
+            "id": 7,
+            "license": 1,
+            "file_name": "eastern-cottontail-rabbit-in-grass_jpg.rf.dfe4f13f84fbbe6859382056e708d93b.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2021-07-24T05:27:20+00:00"
+        },
+        {
+            "id": 8,
+            "license": 1,
+            "file_name": "animal-brown-hare-on-grass-field-wallaby-wallaby-image_jpg.rf.4a1cff1db5e98345c165d5244bc83cdf.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2021-07-24T05:27:20+00:00"
+        },
+        {
+            "id": 9,
+            "license": 1,
+            "file_name": "Cottontail_Rabbit_in_West_Hartford-_Connecticut_2_jpg.rf.7f54e33e7b48b8234b7b9148605e1093.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2021-07-24T05:27:20+00:00"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": 0,
+            "category_id": 1,
+            "bbox": [
+                168,
+                89,
+                247.5,
+                293.5
+            ],
+            "area": 72641.25,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                83,
+                40,
+                242,
+                324
+            ],
+            "area": 78408,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 2,
+            "category_id": 1,
+            "bbox": [
+                204,
+                177,
+                157.5,
+                177.5
+            ],
+            "area": 27956.25,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 2,
+            "category_id": 1,
+            "bbox": [
+                50,
+                127,
+                112,
+                136.5
+            ],
+            "area": 15288,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 4,
+            "image_id": 3,
+            "category_id": 1,
+            "bbox": [
+                0,
+                50,
+                287,
+                328
+            ],
+            "area": 94136,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 5,
+            "image_id": 4,
+            "category_id": 1,
+            "bbox": [
+                100,
+                32,
+                239,
+                250
+            ],
+            "area": 59750,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 6,
+            "image_id": 5,
+            "category_id": 1,
+            "bbox": [
+                78,
+                35,
+                250,
+                360
+            ],
+            "area": 90000,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 7,
+            "image_id": 6,
+            "category_id": 1,
+            "bbox": [
+                60,
+                3,
+                287,
+                353
+            ],
+            "area": 101311,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 8,
+            "image_id": 7,
+            "category_id": 1,
+            "bbox": [
+                200,
+                116,
+                64,
+                133
+            ],
+            "area": 8512,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 9,
+            "image_id": 8,
+            "category_id": 1,
+            "bbox": [
+                94,
+                124,
+                186.5,
+                169
+            ],
+            "area": 31518.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 10,
+            "image_id": 9,
+            "category_id": 1,
+            "bbox": [
+                137,
+                30,
+                221,
+                323.5
+            ],
+            "area": 71493.5,
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    ]
+}
